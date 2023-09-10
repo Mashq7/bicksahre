@@ -1,17 +1,36 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+I created this project on 9/10/2023 at 12:30 p.m.
+
 
 ### Project Title
-Replace the Project Title
-
+BikeShare
 ### Description
-Describe what your project is about and what it does
+This project is a Python script that allows users to analyze bike share data for three major cities: Chicago, New York, and Washington. Users can choose a city, a specific month, and a day of the week to perform various analyses on the bike share data.
+- City Selection: Users can choose one of the three supported cities (Chicago, New York, or Washington) for analysis.
 
+- Date Selection: Users can specify a month and a day of the week for the analysis.
+
+* Data Visualization: The script provides an overview of the available data by displaying column names from the dataset.
+
+- Intelligent Features: It calculates and displays insights like the least busy hours for the selected day and the overall least busy hour.
+
+* Most Frequent Times of Travel: Users can find out the most common month, day, and hour for bike share trips.
+
+* Most Popular Stations and Trips: The script identifies the most common start and end stations for bike share trips.
+
+* Trip Duration Analysis: It calculates the total trip duration and average travel time for the selected month and day.
+
+* User Stats: The script provides statistics on user types (Subscribers and Customers), gender distribution, and user birth years.
+
+* Individual Trip Data: Users have the option to view individual trip data for deeper analysis.
+
+* Restart Option: After completing the analysis, users can choose to restart the program or exit.
 ### Files used
-Include the files used
-
+* Bikeshare.ipynb
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This [repo](https://github.com/transportkollektiv/cykel) have some nice ideas.
