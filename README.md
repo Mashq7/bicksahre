@@ -32,8 +32,8 @@ This project is a Python script that allows users to analyze bike share data for
 * washington.csv
 ### Initial setup
 `git clone`
-must create data file his name is ** chicago.csv, new_york_city.csv , washington.csv **.
-open in ** jupytor notebook **
+must create data file his name is  **chicago.csv, new_york_city.csv , washington.csv** .
+open in  **jupytor notebook**
 
 ### Credits
 This [repo](https://github.com/transportkollektiv/cykel) have some nice ideas.
