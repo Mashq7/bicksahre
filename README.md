@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 I created this project on 9/10/2023 at 12:30 p.m.
 
@@ -34,3 +32,6 @@ This project is a Python script that allows users to analyze bike share data for
 * washington.csv
 ### Credits
 This [repo](https://github.com/transportkollektiv/cykel) have some nice ideas.
+
+### Contributing
+We welcome issues and pull requests for new features, bugs or problems you encountered when setting it up.
